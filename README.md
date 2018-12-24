@@ -4,6 +4,12 @@
 
 # Pls download the XLSM file to enjoy it：）
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)
+      This demo-screenshot is base on ACAK Core 0.9 and some other codes. Only Core 0.9 can not make it works. I will release related codes a little later.  
+      There are 2 video can shows you the demo.  
+      On Youtube:  
+          https://youtu.be/lbM8LOybr5U  
+      On Youku (China Mainland):  
+          https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
 # Which should be improved?
 1. Bilingual setup: Chinese and English.
