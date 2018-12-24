@@ -1,8 +1,9 @@
 # ACAK
 1. Current version: 0.9
 2. Current status: only core code is provided.
+3. If you have any comments, please send to me sdupjj1987@163.com . 
 
-# Pls download the XLSM file to enjoy it：）
+# Please download the XLSM file and explore it：）
 
 # Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
