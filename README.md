@@ -12,6 +12,12 @@
 1. On Youku (China Mainland):  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
+<<<<<<< HEAD
 # Which should be improved?
 1. Debug
 2. Bilingual setup: Chinese and English.
+=======
+# Which will be improved?
+1. Bilingual setup: Chinese and English.
+2. Global variables: Some variables should be global, not in every sub.
+>>>>>>> c71774748e610dabc902df2bde76cc371646eb9c
