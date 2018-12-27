@@ -12,14 +12,13 @@
 1. On Youku (China Mainland):  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
-# Which should be improved?
-1. Debug
-2. Bilingual setup: Chinese and English.
-=======
 # Which will be improved?
 1. Allow plugin
 2. Bilingual setup: Chinese and English.
 
+# Weakness
+1. Only for Ms Windows & Excel
+2. Due to Excel/VBA, ACAK is only of single thread.
 # Version
 0.9.2 <<< Current version  
 0.9
