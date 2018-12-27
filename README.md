@@ -6,7 +6,7 @@
 # Please download the XLSM file and explore it：）
 
 # Pls follow these quick start
-1. for ACAK Core:  
+1. For ACAK Core:  
 https://github.com/sdupjj/ACAK/wiki/010-Quick-Start-For-ACAK-Core
 
 # Demo
