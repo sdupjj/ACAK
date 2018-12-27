@@ -7,7 +7,7 @@
 
 # Quick start
 1. For ACAK Core:  
-https://github.com/sdupjj/ACAK/wiki/010-Quick-Start-For-ACAK-Core
+https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core
 
 # Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
