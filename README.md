@@ -1,7 +1,7 @@
 ﻿# ACAK
 1. Current version: 0.9.3 i
 2. Current status: only core code is provided.
-3. If you have any comments, please send to me sdupjj1987@163.com . 
+3. If you have any comment/suggestion/idea/complain, please send to me sdupjj1987@163.com . 
 
 # Please download the XLSM file and explore it：）
 
