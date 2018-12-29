@@ -1,6 +1,6 @@
 ﻿# ACAK
-1. Current version: 0.9.3 i
-2. Current status: only core code is provided.
+1. Current Core version: 0.9.3 j  
+2. Avalaible Plugin: "Plugin Time 0.1.xlsm"
 3. If you have any comment/suggestion/idea/complain, please send to me sdupjj1987@163.com . 
 
 # Please download the XLSM file and explore it：）
@@ -8,6 +8,8 @@
 # Quick start
 1. For ACAK Core:  
 https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core
+2. For ACAK Plugin:  
+https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin
 
 # Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
@@ -23,7 +25,12 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 1. Only for MS Windows & Excel
 2. Single thread.  
 
-# Version
-0.9.3 i  <<< Current version  
+# ACAK Core Version History  
+0.9.3 j  <<< Current version  
+0.9.3 i    
 0.9.2  
 0.9  
+
+# ACAK Plugin Version History  
+1. Plugin Time 0.1.xlsm  
+0.1  <<< Current version  
