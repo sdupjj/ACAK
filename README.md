@@ -20,8 +20,8 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 2. Try to be with English.
 
 # Weakness
-1. Only for Ms Windows & Excel
-2. Due to Excel/VBA, ACAK is only of single thread.
+1. Only for MS Windows & Excel
+2. Single thread.  
 
 # Version
 0.9.3 i  <<< Current version  
