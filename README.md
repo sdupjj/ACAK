@@ -1,6 +1,6 @@
 ﻿# ACAK
 1. Current Core version: 0.9.3 j  
-2. Avalaible Plugin: "Plugin Time 0.1.xlsm"
+2. Current Avalaible Plugin: "Plugin Time 0.1.xlsm"
 3. If you have any comment/suggestion/idea/complain, please send to me sdupjj1987@163.com . 
 
 # Please download the XLSM file and explore it：）
@@ -19,18 +19,18 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 
 # Which will be improved?
 1. Allow plugin
-2. Try to be with English.
+2. Try to be with English  
 
 # Weakness
 1. Only for MS Windows & Excel
-2. Single thread.  
+2. Single thread  
+3. Strange error happens sometimes  
 
-# ACAK Core Version History  
+# ACAK Version History  
+1. Core
 0.9.3 j  <<< Current version  
 0.9.3 i    
 0.9.2  
 0.9  
-
-# ACAK Plugin Version History  
-1. Plugin Time 0.1.xlsm  
+2. Plugin Time 0.1.xlsm  
 0.1  <<< Current version  
