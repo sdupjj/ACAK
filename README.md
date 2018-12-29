@@ -13,7 +13,7 @@ https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin
 
 # Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
-*This demo is base on ACAK Core 0.9 and some other codes. Only Core 0.9 can not make it work. I will release related codes a little later.*   
+*This demo is based on ACAK Core 0.9 and some other codes. Only Core 0.9 can not make it work. I will release related codes a little later.*   
 1. Show on Youku (China Mainland):  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
@@ -27,10 +27,10 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 3. Strange error happens sometimes  
 
 # ACAK Version History  
-1. Core
+1. Core  
 0.9.3 j  <<< Current version  
 0.9.3 i    
 0.9.2  
 0.9  
-2. Plugin Time 0.1   
+2. Plugin Time  
 0.1  <<< Current version  
