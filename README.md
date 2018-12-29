@@ -3,7 +3,7 @@
 2. Current Avalaible Plugin: "Plugin Time 0.1.xlsm"
 3. If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
 
-# Please download the XLSM file and explore it：）
+# Please download the XLSM files and explore them：）
 
 # Quick start
 1. For ACAK Core:  
