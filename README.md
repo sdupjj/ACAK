@@ -1,7 +1,7 @@
 ﻿# ACAK
 1. Current Core version: 0.9.3 j  
 2. Current Avalaible Plugin: "Plugin Time 0.1.xlsm"
-3. If you have any comment/suggestion/idea/complain, please send to me sdupjj1987@163.com . 
+3. If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
 
 # Please download the XLSM file and explore it：）
 
@@ -18,7 +18,7 @@ https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
 # Which will be improved?
-1. Allow plugin
+1. Allow plugin(initial designed)
 2. Try to be with English  
 
 # Weakness
