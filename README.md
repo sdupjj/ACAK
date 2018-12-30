@@ -5,6 +5,9 @@
 
 # Please download the XLSM files and explore them：）
 
+#Tips
+1. I am quite surprised that ACAK runs much faster in Excel 2007 than in Excel 2016.  
+
 # Quick start
 1. For ACAK Core:  
 https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core
