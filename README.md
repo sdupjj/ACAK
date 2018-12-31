@@ -22,9 +22,9 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 2. Try to be with English  
 
 # Weakness
-1. Only for MS Windows & Excel
+1. Only for MS Windows & Excel(>=2007)
 2. Single thread  
-3. Strange error happens sometimes(try to fix from version 0.9.3 t)  
+3. Strange error happens sometimes((initial fix from ACAK Core 0.9.3 t)  
 
 # ACAK Version History  
 1. Core  
