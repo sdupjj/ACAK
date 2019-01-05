@@ -1,5 +1,5 @@
 ﻿# ACAK
-1. Current Core version: 0.9.3 z  
+1. Current Core version: 0.9.4  
 2. Current Avalaible Plugin: "Plugin Time 0.1.xlsm"
 3. If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
 
@@ -26,7 +26,8 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 
 # ACAK Version History  
 1. Core  
-0.9.3 z  <<< Current version  
+0.9.4  <<< Current version  
+0.9.3 z  
 0.9.2  
 0.9  
 2. Plugin Time  
