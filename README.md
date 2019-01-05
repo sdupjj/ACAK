@@ -1,6 +1,6 @@
 ﻿# ACAK
 1. Current Core version: 0.9.4  
-2. Current Avalaible Plugin: "Plugin Time 0.1.xlsm"
+2. Current Avalaible Plugin: "Plugin Time 0.2.xlsm"
 3. If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
 
 # Please download the XLSM files and explore them：）
