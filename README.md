@@ -5,7 +5,7 @@
 
 # 请下载XLSM文件，即可使用 / Please download the XLSM files and explore them：）
 
-# 如果首次打开ACAK Core 遇到问题,请重新即可 / If meet error, please re-open ACAK Core.
+# 如果首次打开ACAK Core 遇到问题,请重新打开即可 / If meet error, please re-open ACAK Core.
 
 # 快速入门 / Quick start
 1. 使用ACAK Core / For ACAK Core:  
