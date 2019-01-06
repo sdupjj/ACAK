@@ -7,9 +7,13 @@
 
 # 快速入门 / Quick start
 1. 使用ACAK Core / For ACAK Core:  
+[中文]
+https://github.com/sdupjj/ACAK/wiki/016-ACAK-Core-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8  
 [EN]
-https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core
+https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core  
 2. 使用ACAK 插件 / For ACAK Plugin:  
+[中文]
+https://github.com/sdupjj/ACAK/wiki/019-ACAK-%E6%8F%92%E4%BB%B6-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8
 [EN]
 https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin
 
