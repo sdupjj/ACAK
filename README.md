@@ -1,6 +1,6 @@
 ﻿# ACAK
 1. 当前版本 / Current Core version: 0.9.4  
-2. 当前可用插件 / Current Avalaible Plugin: "Plugin Time 0.2.xlsm"
+2. 当前可用插件 / Current Avalaible Plugin: "Plugin Time 0.3.xlsm"
 3. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
 
 # 请下载XLSM文件，即可使用 / Please download the XLSM files and explore them：）
@@ -39,5 +39,6 @@ https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1
 0.9.2  
 0.9  
 2. Plugin Time  
-0.2  <<< 当前版本 / Current version  
+0.3  <<< 当前版本 / Current version
+0.2    
 0.1
