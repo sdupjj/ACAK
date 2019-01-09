@@ -1,4 +1,5 @@
 ﻿# ACAK
+ ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/logo.png)   
 1. 当前版本 / Current Core version: 0.9.4  
 2. 当前可用插件 / Current Avalaible Plugin: "Plugin Time 0.3.xlsm"
 3. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
