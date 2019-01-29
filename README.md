@@ -26,10 +26,7 @@ https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin
 1. 优酷 / Show on Youku (China Mainland):  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
 
-## 哪些地方需要改进 / Which will be improved?
-1. 允许使用插件 / Allow plugin(初步已经实现 / initial designed)
-
-## 确定 / Weakness
+## 不足 / Weakness
 1. 仅能运行在微软Windows与Excel / Only for MS Windows & Excel(>=2007)
 2. 单线程运行 / Single thread  
 
