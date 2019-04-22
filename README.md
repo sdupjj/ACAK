@@ -11,7 +11,7 @@
 ## 快速入门 / Quick start
 1. 使用ACAK Core / For ACAK Core:  
 [中文]  
-https://blog.csdn.net/sdupjj/article/details/89461915
+https://blog.csdn.net/sdupjj/article/details/89461915  
 [EN]  
 https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core  
 2. 使用ACAK 插件 Time/ For ACAK Plugin Time:  
