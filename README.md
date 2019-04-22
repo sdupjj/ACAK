@@ -11,7 +11,7 @@
 ## 快速入门 / Quick start
 1. 使用ACAK Core / For ACAK Core:  
 [中文]  
-https://github.com/sdupjj/ACAK/wiki/016-ACAK-Core-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8  
+https://blog.csdn.net/sdupjj/article/details/89461915
 [EN]  
 https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core  
 2. 使用ACAK 插件 Time/ For ACAK Plugin Time:  
@@ -19,12 +19,20 @@ https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core
 https://github.com/sdupjj/ACAK/wiki/019-ACAK-%E6%8F%92%E4%BB%B6-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8  
 [EN]  
 https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin  
+3. 使用ACAK 插件 SS/ For ACAK Plugin SS:  
+[中文]  
+https://blog.csdn.net/sdupjj/article/details/89462476
 
 ## 小试牛刀 / Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
-*这个样品需要额外的代码才可以运行，后续会上传到github！This demo is based on ACAK Core 0.9 and some other codes. Only Core 0.9 can not make it work. I will release related codes a little later.*   
+
+ ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20190422DEMO02.png)  
+
 1. 优酷 / Show on Youku (China Mainland):  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
+2. 优酷 / Show on Youku (China Mainland):  
+https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
+
 
 ## 不足 / Weakness
 1. 仅能运行在微软Windows与Excel / Only for MS Windows & Excel(>=2007)
