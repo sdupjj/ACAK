@@ -4,19 +4,12 @@
 2. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please contact with me sdupjj1987@163.com .   
 
 ## 快速入门 / Quick start
-1. 使用ACAK Core / For ACAK Core:  
 [中文]  
-https://blog.csdn.net/sdupjj/article/details/89461915  
+[ACAK 入门教程 00](https://github.com/sdupjj/ACAK/wiki/000-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-00)
+
+[ACAK 入门教程 01](https://github.com/sdupjj/ACAK/wiki/001-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-01)
 [EN]  
 https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core  
-2. 使用ACAK 插件 Time/ For ACAK Plugin Time:  
-[中文]  
-https://github.com/sdupjj/ACAK/wiki/019-ACAK-%E6%8F%92%E4%BB%B6-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8  
-[EN]  
-https://github.com/sdupjj/ACAK/wiki/018-Quick-Start-For-ACAK-Plugin  
-3. 使用ACAK 插件 SS/ For ACAK Plugin SS:  
-[中文]  
-https://blog.csdn.net/sdupjj/article/details/89462476
 
 ## 小试牛刀 / Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
