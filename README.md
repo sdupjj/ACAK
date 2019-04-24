@@ -1,12 +1,7 @@
 ﻿# ACAK
 ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/logo.png)     
-1. 当前核心版本 / Current Core version: 0.9.4  
-2. 当前可用插件 / Current Avalaible Plugin: "Plugin Time" & "Plugin SS" 
-3. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please send to me sdupjj1987@163.com . 
-
-## 请下载XLSM文件，即可使用 / Please download the XLSM files and explore them：）
-
-## 如果首次打开ACAK Core 遇到问题,请重新打开即可 / If meet error, please re-open ACAK Core.
+1 ACAK = ACAK Core + ACAK Plugins
+2. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please contact with me sdupjj1987@163.com .   
 
 ## 快速入门 / Quick start
 1. 使用ACAK Core / For ACAK Core:  
