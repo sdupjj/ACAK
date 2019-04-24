@@ -8,17 +8,17 @@
 [ACAK 入门教程 00](https://github.com/sdupjj/ACAK/wiki/000-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-00)
 
 [ACAK 入门教程 01](https://github.com/sdupjj/ACAK/wiki/001-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-01)
+
 [EN]  
-https://github.com/sdupjj/ACAK/wiki/015-Quick-Start-For-ACAK-Core  
 
 ## 小试牛刀 / Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
 
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20190422DEMO02.png)  
 
-1. 优酷 / Show on Youku (China Mainland):  
+1. 优酷 / Video on Youku:  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
-2. 优酷 / Show on Youku (China Mainland):  
+2. 优酷 / Video on Youku:  
 https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 
 
