@@ -1,6 +1,6 @@
 ﻿# ACAK
 ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/logo.png)     
-1 ACAK = ACAK Core + ACAK Plugins
+1 ACAK = ACAK Core + ACAK Plugins  
 2. 如果有任何建议意见，请与我联系sdupjj1987@163.com / If you have any comment/suggestion/idea, please contact with me sdupjj1987@163.com .   
 
 ## 快速入门 / Quick start
