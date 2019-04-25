@@ -10,7 +10,9 @@
 [ACAK 入门教程 01](https://github.com/sdupjj/ACAK/wiki/001-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-01)
 
 [EN]  
+[ACAK Tutorial 00](https://github.com/sdupjj/ACAK/wiki/100-ACAK-Tutorial-00)
 
+[ACAK Tutorial 01](https://github.com/sdupjj/ACAK/wiki/101-ACAK-Tutorial-01)
 ## 小试牛刀 / Demo
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20181224%20DEMO%2001.jpg)  
 
