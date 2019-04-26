@@ -25,7 +25,7 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 
 
 ## 不足 / Weakness
-1. 仅能运行在微软Windows与32位Excel / Only for MS Windows & 32bit Excel(>=2007)
+1. 仅能运行在微软Windows与32位Excel / Only for MS Windows & Excel(>=2007, 32bit )  
 2. 单线程运行 / Single thread  
 
 ## ACAK 历史版本 / Version History  
@@ -41,3 +41,6 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 0.1  
 3. Plugin SS  
 0.1 g <<< 当前版本 / Current version  
+
+## License  
+ACAK(include Core and Plugins) in Github are following this License standard: Apache License 2.0
