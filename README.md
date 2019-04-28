@@ -30,7 +30,7 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 
 ## ACAK 历史版本 / Version History  
 1. Core  
-0.9.4 j  <<< 当前版本 / Current version  
+0.9.4 l  <<< 当前版本 / Current version  
 0.9.3  
 0.9.2  
 0.9  
