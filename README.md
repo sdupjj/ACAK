@@ -30,7 +30,7 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 
 ## ACAK 历史版本 / Version History  
 1. Core  
-0.9.4 n  <<< 当前版本 / Current version  
+0.9.4  <<< 当前版本 / Current version  
 0.9.3  
 0.9.2  
 0.9  
@@ -40,7 +40,7 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 0.2    
 0.1  
 3. Plugin SS  
-0.1 g <<< 当前版本 / Current version  
+0.1 <<< 当前版本 / Current version  
 
-## License  
+## 版权 / License  
 ACAK(include Core and Plugins) in Github are following this License standard: Apache License 2.0
