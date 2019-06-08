@@ -5,6 +5,8 @@
 
 ## 快速入门 / Quick start
 [中文]  
+[ACAK 原理](https://github.com/sdupjj/ACAK/wiki/002-ACAK-%E5%8E%9F%E7%90%86)
+
 [ACAK 入门教程 00](https://github.com/sdupjj/ACAK/wiki/000-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-00)
 
 [ACAK 入门教程 01](https://github.com/sdupjj/ACAK/wiki/001-ACAK-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B-01)
