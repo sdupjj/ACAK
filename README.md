@@ -43,6 +43,8 @@ https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1
 0.1  
 3. Plugin SS  
 0.1 <<< 当前版本 / Current version  
+4. Plugin Email  
+0.1 <<< 当前版本 / Current version  
 
 ## 版权 / License  
 ACAK(include Core and Plugins) in Github are following this License standard: Apache License 2.0
