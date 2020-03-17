@@ -20,11 +20,11 @@
 
  ![image](https://github.com/sdupjj/ACAK/blob/master/screenshots/20190422DEMO02.png)  
 
-1. 玩游戏：优酷 / Video on Youku:  
+1. 玩游戏 / Play the Chrome Game:  
 https://v.youku.com/v_show/id_XMzk3OTE0NTk0MA==.html?spm=a2h3j.8428770.3416059.1  
-2. 操作网页：优酷 / Video on Youku:  
+2. 操作网页 / Search key words:  
 https://v.youku.com/v_show/id_XNDE0OTAyNzYxMg==.html?spm=a2h3j.8428770.3416059.1  
-3. 定时发送邮件：优酷 / Video on Youku:  
+3. 定时发送邮件 / Sent the Email:  
 https://v.youku.com/v_show/id_XNDI3NzE4OTAwOA==.html?spm=a2h3j.8428770.3416059.1  
 
 ## 不足 / Weakness
